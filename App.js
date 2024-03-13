@@ -1,12 +1,12 @@
-// npm start
+// npm start (npx expo start works well)
 
 import React from 'react';
-// import HomeScreen from './app/screens/HomeScreen';
-import PlayerScreen from './app/screens/PlayerScreen';
+import LandingScreen from './app/screens/LandingScreen';
+// import RecorderScreen from './app/screens/RecorderScreen';
 
 export default function App() {
 
   return (
-     < PlayerScreen />
+     < LandingScreen />
   );
 }

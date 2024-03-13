@@ -1,0 +1,13 @@
+{
+"landing":["dashboard","trainer"],
+"dashboard":["scripts","trainer"],
+"books":["trainer","recorder"],
+"recorder":[],
+"clipmanager":[],
+"trainer":["clip"],
+"login":[],
+"newuser":[],
+"setup":[],
+"account":[],
+"settings":[]
+}
